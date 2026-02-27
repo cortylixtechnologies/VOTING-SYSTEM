@@ -1,0 +1,5 @@
+{
+  "name": "CampusVote",
+  "description": "A secure and intuitive college election voting system with real-time results and admin controls.",
+  "requestFramePermissions": []
+}
